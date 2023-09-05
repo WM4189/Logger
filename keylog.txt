@@ -1,0 +1,53 @@
+2023-09-05 19:18:57,014 - [Auto Save]
+2023-09-05 19:18:58,437 - Key x pressed
+2023-09-05 19:18:58,438 - Key z pressed
+2023-09-05 19:18:58,439 - Key d pressed
+2023-09-05 19:18:58,459 - Key f pressed
+2023-09-05 19:18:58,886 - Key z pressed
+2023-09-05 19:18:58,934 - Key x pressed
+2023-09-05 19:18:58,935 - Key d pressed
+2023-09-05 19:18:58,956 - Key f pressed
+2023-09-05 19:18:59,042 - Key g pressed
+2023-09-05 19:18:59,224 - Key d pressed
+2023-09-05 19:18:59,246 - Key z pressed
+2023-09-05 19:18:59,291 - Key f pressed
+2023-09-05 19:18:59,359 - Key g pressed
+2023-09-05 19:18:59,541 - Key z pressed
+2023-09-05 19:18:59,542 - Key x pressed
+2023-09-05 19:18:59,696 - Key f pressed
+2023-09-05 19:18:59,742 - Key v pressed
+2023-09-05 19:18:59,831 - Key x pressed
+2023-09-05 19:18:59,854 - Key z pressed
+2023-09-05 19:18:59,855 - Key c pressed
+2023-09-05 19:18:59,945 - Key v pressed
+2023-09-05 19:19:07,016 - [Auto Save]
+2023-09-05 19:19:07,417 - Key e pressed
+2023-09-05 19:19:07,863 - Key v pressed
+2023-09-05 19:19:07,954 - Key e pressed
+2023-09-05 19:19:08,065 - Key n pressed
+2023-09-05 19:19:08,223 - Special key Key.space pressed
+2023-09-05 19:19:08,313 - Key t pressed
+2023-09-05 19:19:08,381 - Key h pressed
+2023-09-05 19:19:08,447 - Key e pressed
+2023-09-05 19:19:08,561 - Special key Key.space pressed
+2023-09-05 19:19:09,371 - Key c pressed
+2023-09-05 19:19:09,686 - Special key Key.backspace pressed
+2023-09-05 19:19:09,934 - Key a pressed
+2023-09-05 19:19:10,115 - Key n pressed
+2023-09-05 19:19:10,139 - Key a pressed
+2023-09-05 19:19:10,160 - Key s pressed
+2023-09-05 19:19:10,203 - Key d pressed
+2023-09-05 19:19:10,316 - Key f pressed
+2023-09-05 19:19:10,406 - Key a pressed
+2023-09-05 19:19:10,427 - Key s pressed
+2023-09-05 19:19:10,451 - Key d pressed
+2023-09-05 19:19:10,518 - Key f pressed
+2023-09-05 19:19:10,589 - Special key Key.space pressed
+2023-09-05 19:19:17,021 - [Auto Save]
+2023-09-05 19:19:27,026 - [Auto Save]
+2023-09-05 19:19:37,032 - [Auto Save]
+2023-09-05 19:19:47,038 - [Auto Save]
+2023-09-05 19:19:57,041 - [Auto Save]
+2023-09-05 19:20:07,046 - [Auto Save]
+2023-09-05 19:20:07,782 - Special key Key.ctrl pressed
+2023-09-05 19:20:07,915 - Key c pressed
